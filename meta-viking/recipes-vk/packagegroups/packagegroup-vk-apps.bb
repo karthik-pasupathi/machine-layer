@@ -30,7 +30,7 @@ RDEPENDS:${PN}-chassis = " \
         x86-power-control \
         "
 
-SUMMARY:${PN}-extras:wetterhorn = "Extra features for tiogapass"
+SUMMARY:${PN}-extras:wetterhorn = "Extra features for viking"
 RDEPENDS:${PN}-extras:wetterhorn = "phosphor-nvme"
 
 SUMMARY:${PN}-fans = "viking Fans"

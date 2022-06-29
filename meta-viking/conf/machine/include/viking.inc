@@ -18,4 +18,4 @@ IMAGE_FEATURES:remove = "obmc-ikvm"
 IMAGE_FEATURES:append = " allow-root-login"
 
 # Most of our hardware uses the default ttyS4 but at 57600.
-SERIAL_CONSOLES:facebook = "57600;ttyS4"
+SERIAL_CONSOLES:viking = "57600;ttyS4"
